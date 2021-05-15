@@ -1,10 +1,10 @@
+![Serbay's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbayacar&theme=onedark&show_icons=true&hide_rank=true)
+
 ### Hi there I'm Serbay ACAR :lemon:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=serbayacar&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/serbayacar/) [![Instagram](https://img.shields.io/static/v1?label=serbayacar&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/serbayacar/) [![Twitter](https://img.shields.io/static/v1?label=serbayacar&message=%20&color=white&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/serbayacar/)
 
-[![serbayacar@gmail.com](https://img.shields.io/static/v1?label=serbayacar@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:serbayacar@gmail.com)  
-
-![Serbay's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbayacar&theme=onedark&show_icons=true&hide_rank=true)
+[![serbayacar@gmail.com](https://img.shields.io/static/v1?label=serbayacar@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:serbayacar@gmail.com) 
 
 #### Languages and tools:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
