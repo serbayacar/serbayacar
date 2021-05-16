@@ -1,19 +1,39 @@
-![Serbay's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbayacar&theme=onedark&show_icons=true&hide_rank=true)
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=serbayacar&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  </p>
+</p>
 
-### Hi there I'm Serbay ACAR :lemon:
+<p>
+  📣 You wanna contact me :<br/>
+  <a href="mailto:serbayacar@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/serbayacar"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/serbayacar"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/serbayacar"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/static/v1?label=serbayacar&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/serbayacar/) [![Instagram](https://img.shields.io/static/v1?label=serbayacar&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/serbayacar/) [![Twitter](https://img.shields.io/static/v1?label=serbayacar&message=%20&color=white&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/serbayacar/)
+##### NOW
 
-[![serbayacar@gmail.com](https://img.shields.io/static/v1?label=serbayacar@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:serbayacar@gmail.com) 
+- ✨ I'm working on a basic [Twitter CLI Interface](https://github.com/serbayacar/TweetyCLI);
+- Study some "Statistic";
+- I'm trying to brew the most delicious coffee.
 
-#### Languages and tools:
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![bash](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
-![fastapi](https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgaWQ9InN2ZzgiCiAgIHZlcnNpb249IjEuMSIKICAgdmlld0JveD0iMCAwIDYuMzQ5OTk5OSA2LjM0OTk5OTkiCiAgIGhlaWdodD0iNi4zNDk5OTk5bW0iCiAgIHdpZHRoPSI2LjM0OTk5OTltbSI+CiAgPGRlZnMKICAgICBpZD0iZGVmczIiIC8+CiAgPG1ldGFkYXRhCiAgICAgaWQ9Im1ldGFkYXRhNSI+CiAgICA8cmRmOlJERj4KICAgICAgPGNjOldvcmsKICAgICAgICAgcmRmOmFib3V0PSIiPgogICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PgogICAgICAgIDxkYzp0eXBlCiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIgLz4KICAgICAgICA8ZGM6dGl0bGU+PC9kYzp0aXRsZT4KICAgICAgPC9jYzpXb3JrPgogICAgPC9yZGY6UkRGPgogIDwvbWV0YWRhdGE+CiAgPGcKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODcuNTM5Mjg2LC04NC40MjYxOTEpIgogICAgIGlkPSJsYXllcjEiPgogICAgPHBhdGgKICAgICAgIGlkPSJwYXRoODE1IgogICAgICAgZD0ibSA4Ny41MzkyODYsODQuNDI2MTkxIGggNi4zNSB2IDYuMzUgaCAtNi4zNSB6IgogICAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2Utd2lkdGg6MC4yNjQ1ODMzMiIgLz4KICAgIDxwYXRoCiAgICAgICBzdHlsZT0ic3Ryb2tlLXdpZHRoOjAuMjY0NTgzMzI7ZmlsbDojZmZmZmZmIgogICAgICAgaWQ9InBhdGg4MTciCiAgICAgICBkPSJtIDkwLjcxNDI4Niw4NC45NjA2NDkgYyAtMS40NTc4NTQsMCAtMi42NDA1NDIsMS4xODI2ODggLTIuNjQwNTQyLDIuNjQwNTQyIDAsMS40NTc4NTQgMS4xODI2ODgsMi42NDA1NDIgMi42NDA1NDIsMi42NDA1NDIgMS40NTc4NTQsMCAyLjY0MDU0MiwtMS4xODI2ODggMi42NDA1NDIsLTIuNjQwNTQyIDAsLTEuNDU3ODU0IC0xLjE4MjY4OCwtMi42NDA1NDIgLTIuNjQwNTQyLC0yLjY0MDU0MiB6IG0gLTAuMTM3NTgzLDQuNzU3MjA5IHYgLTEuNjU2MjkyIGggLTAuOTIwNzUgbCAxLjMyMjkxNiwtMi41NzcwNDIgdiAxLjY1NjI5MiBoIDAuODg2MzU0IHoiIC8+CiAgPC9nPgo8L3N2Zz4K)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![sqlite](https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![ci-cd](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge)
- 
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+##### BIO
+
+- 🏢 I'm not working anywhere**
+- ⚙️ I use daily: `.py`, `.php`
+- 🌍 I'm mostly active within the **Laravel Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **programming**, **cooking**, **brewing**, or just **chatting**
+- 📫 Reach me: [twitter.com/serbay](https://twitter.com/serbayacar)
