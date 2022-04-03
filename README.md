@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serbay ACAR</h1>
-<table style='border: none'>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
         <p>
@@ -16,7 +16,7 @@
 <hr><br>
 
 
-<table style='border: none'>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <p>
