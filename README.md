@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serbay ACAR</h1>
-<table>
+<table style='border: none'>
   <tr>
     <td>
         <p>
@@ -16,7 +16,7 @@
 <hr><br>
 
 
-<table>
+<table style='border: none'>
   <tr>
     <td>
       <p>
